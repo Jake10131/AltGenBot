@@ -1,0 +1,14 @@
+{
+  "cmsg": [
+    "You can't use this command in this channel.",
+    "You can't do that here.",
+    "Stop you weeb!",
+    "I hate you!"
+  ],
+  "rmsg": [
+    "sorry!",
+    "You don't have the specific role.",
+    "You can't use that command.",
+    "STOP!"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "AltGen",
+  "version": "0.0.1",
+  "description": "A simple alt gen bot running on node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  },
+  "engines": {
+    "node": "^12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-hello-node"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "altgen",
+    "express"
+  ]
+}
