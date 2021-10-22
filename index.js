@@ -39,7 +39,8 @@ client.on("message", message => {
   } catch (err) {
 	console.log(err);
     message.reply({embed: {
-                description: "That command does not exist, Take a look at " + `${prefix}` + " help!"
+                description: "That command does not exist, Take a look at " + `${prefix}help!`,
+                color: "RANDOM"
             }})
   }
 });
